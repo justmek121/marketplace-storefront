@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "CiwfWfC5ZWiJGoJsBVrsU1sY3ux7gG1A9G5VVnTZADpx"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_KSVXvf7depmvRP7XflQ6reTvgMRIukg67Ep",
+  "serviceFee": 4,
+  "currencyOption": "USDC",
+  "name": "Life of J",
+  "logo": "https://collections.mirrorworld.fun/1677981498143-tải xuống.jfif"
 }
